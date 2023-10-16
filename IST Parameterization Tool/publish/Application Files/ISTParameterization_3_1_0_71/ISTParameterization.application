@@ -11,17 +11,17 @@
     <deploymentProvider codebase="https://raw.githubusercontent.com/import-tiago/CI-CD/main/IST%20Parameterization%20Tool/publish/ISTParameterization.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\ISTParameterization_3_1_0_71\ISTParameterization.exe.manifest" size="12788">
+    <dependentAssembly dependencyType="install" codebase="Application Files\ISTParameterization_3_1_0_71\ISTParameterization.exe.manifest" size="12371">
       <assemblyIdentity name="ISTParameterization.exe" version="3.1.0.71" publicKeyToken="0000000000000000" language="en" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1DC76JsJsMLgLGkZJ7QQoiZnJQxVVwNpnoxaPWpZ8VQ=</dsig:DigestValue>
+        <dsig:DigestValue>qBS8Hl8uOtcloTAaLHq3GJyhxl5k7iZCDCyYgEtevv4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
